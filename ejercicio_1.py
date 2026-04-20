@@ -16,6 +16,6 @@ def promedio_movil(lista_numeros):
 
 resultado = promedio_movil(lista_numeros)
 
-print(f"La lista de numeros es: {lista_numeros}")
+print(f"> La lista de numeros es: {lista_numeros}")
 print()
-print(f"La lista de promedio movil es: {resultado}")
+print(f"> La lista de promedio movil es: {resultado}")

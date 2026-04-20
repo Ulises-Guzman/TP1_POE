@@ -16,4 +16,4 @@ def filtrar_nombres(lista_nombres):
 
 resultado = filtrar_nombres(lista_nombres)
 
-print(f"La lista con los nombres filtrados es: {resultado}")
+print(f"> La lista con los nombres filtrados es: {resultado}")
