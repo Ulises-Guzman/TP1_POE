@@ -1,2 +1,2 @@
 # TP1_POE
-Trabajo Practico de Programación Orientada a Eventos
+Trabajo Práctico de Programación Orientada a Eventos
