@@ -1,10 +1,15 @@
-﻿print(".: Análisis de rango de una lista de números:.")
+﻿import random
+
+print(".: Análisis de rango de una lista de números:.")
 print()
 
-numeros = [10, 125, 76, 84, 154, 35, 64, 96, 77, 33]
+lista_aleatoria = [random.randint(1, 100) for _ in range(10)]
 
-num_max = max(numeros)
-num_min = min(numeros)
+print(f"> La lista aleatoria es: {lista_aleatoria}")
+print()
+
+num_max = max(lista_aleatoria)
+num_min = min(lista_aleatoria)
 
 resultado = num_max - num_min
 
