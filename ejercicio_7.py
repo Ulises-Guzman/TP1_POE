@@ -1,4 +1,4 @@
-print(".: Traductor de P o Jeringozo :.")
+﻿print(".: Traductor de P o Jeringozo :.")
 print()
 
 palabra = input("Ingrese la palabra a traducir: ")

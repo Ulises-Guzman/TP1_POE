@@ -1,4 +1,4 @@
-print(".: Buscador de duplicados :.")
+﻿print(".: Buscador de duplicados :.")
 print()
 
 lista = ["motor", "rueda", "puerta", "chasis", "rueda", "parabrisas", "butaca", "motor", "chasis"]
